@@ -18,7 +18,7 @@ function Message({ type, msg }) {
         }, 3000)
 
         return () => clearTimeout(timer)
-    }), [msg]
+    }, [msg])
 
     return (
         <>
