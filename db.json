@@ -1,8 +1,8 @@
 {
   "projects": [
     {
-      "name": "teste 1",
-      "budget": "34343",
+      "name": "teste atualizado",
+      "budget": "3000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
@@ -12,11 +12,11 @@
       "id": 1
     },
     {
-      "name": "teste 2",
-      "budget": "5777",
+      "name": "projeto atualizado 2",
+      "budget": "5000",
       "category": {
-        "id": "3",
-        "name": "Design"
+        "id": "1",
+        "name": "Infra"
       },
       "cost": 0,
       "services": [],
